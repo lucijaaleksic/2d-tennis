@@ -1,4 +1,5 @@
 # 2d-tennis
+![architecture](https://github.com/lucijaaleksic/2d-tennis/blob/main/tennis-architecture.png?raw=true)
 ## 1. References
 - *[Accurate Tennis Court Line Detection on Amateur Recorded Matches](https://arxiv.org/pdf/2404.06977)* This paper will guide the detection of court boundaries, allowing for accurate transformations from a 3D video to a 2D plane.
 - *[DeepBall: Deep Neural-Network Ball Detector](https://arxiv.org/pdf/1902.07304v1)* This paper provides insights into ball detection and tracking using a neural network, which will be a key component for tracking the tennis ball during rallies.
